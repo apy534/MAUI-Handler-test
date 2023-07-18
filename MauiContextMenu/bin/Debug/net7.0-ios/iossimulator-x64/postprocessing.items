@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MauiContextMenu.app/MauiContextMenu">
+      <BCSymbolMapName>MauiContextMenu.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MauiContextMenu.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/amantya/Projects/MauiContextMenu/MauiContextMenu/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MauiContextMenu.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/amantya/Projects/MauiContextMenu/MauiContextMenu</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
